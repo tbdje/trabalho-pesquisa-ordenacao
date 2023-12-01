@@ -1,2 +1,2 @@
 # trabalho-pesquisa-ordenacao
-Executado usando a ferramenta VSCode com a extensão para Java.
+Trabalho executado usando a ferramenta VSCode com a extensão para Java.
